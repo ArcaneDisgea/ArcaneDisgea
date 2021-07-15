@@ -15,17 +15,17 @@ Hi, I'm Arcane and I sometimes make neat things.
 
 <div align="center">
     <a href="https://github.com/xivapi/xiv-character-cards">
-        <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=xivapi&repo=XIV-CHARACTER-CARDS&theme=dark" alt="XIV Character Cards" />
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=xivapi&repo=XIV-CHARACTER-CARDS&theme=dark" alt="XIV Character Cards" />
     </a>
     <a href="https://github.com/xivapi/ffxiv-datamining">
-        <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=xivapi&repo=ffxiv-datamining&theme=dark" alt="FFXIV Datamining" />
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=xivapi&repo=ffxiv-datamining&theme=dark" alt="FFXIV Datamining" />
     </a>
   <br/>
     <a href="https://github.com/ArcaneDisgea/Boring-Mammet-v2">
-        <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=arcanedisgea&repo=boring-mammet-v2&theme=dark" alt="Boring Mammet V2"  />
+        <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=arcanedisgea&repo=boring-mammet-v2&theme=dark" alt="Boring Mammet V2"  />
     </a>
     <a href="https://github.com/ffxiv-teamcraft/discord-bot">
-        <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=ffxiv-teamcraft&repo=discord-bot&theme=dark" alt="FFXIVTeamcraft Discord Bot"  />
+        <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ffxiv-teamcraft&repo=discord-bot&theme=dark" alt="FFXIVTeamcraft Discord Bot"  />
     </a>
 </div>
 
